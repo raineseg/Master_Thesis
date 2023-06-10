@@ -1,7 +1,7 @@
 #phylogenetic analysis script
 
 # README #
-# the input sequences files' extension used here is .faa and should be in FASTA format
+# The name of the BUSCO directory for each of the sample refers to the sample name
 # seqtk, Gblocks, AMAS, MAFFT and IQTREE packages should be installed
 # sample_names.txt input file should include the list of samples name (one name per one line)
 # buscoids.txt input file should inclide the list of used orthologs (one ortholog ID per one line)
